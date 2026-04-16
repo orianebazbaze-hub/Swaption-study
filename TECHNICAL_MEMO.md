@@ -169,4 +169,4 @@ This memo does not resolve the full hedging problem — it maps the landscape. T
 
 ← [Back to overview](./README.md)
 
-<sub>*Confidential — for discussion purposes only.*</sub>
+<sub>*for discussion purposes only.*</sub>
