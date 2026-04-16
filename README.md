@@ -1,7 +1,7 @@
 # Hedging Mortgage Negative Convexity with Swaptions
 
 > **A Research Memorandum — ALM & Interest Rate Risk**
-> Corporate Treasury · Interest Rate Portfolio Management · April 2026
+>  Interest Rate Portfolio Management · 
 
 ---
 
