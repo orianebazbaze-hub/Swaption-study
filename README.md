@@ -61,4 +61,4 @@ The practical complexity lies not in the concept but in the **calibration**: cho
 
 ---
 
-<sub>*Confidential — for discussion purposes only.*</sub>
+<sub>* for discussion purposes only.*</sub>
